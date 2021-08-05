@@ -1,7 +1,7 @@
 ﻿using System;
-using CrashCourse2020ExercisesDayTwo.Src.Models;
+using CrashCourse2021ExercisesDayTwo.Models;
 
-namespace CrashCourse2020ExercisesDayTwo.Src.Services
+namespace CrashCourse2021ExercisesDayTwo.Services
 {
     //This is the only Class where you should change code!! :)
     public class CreditService

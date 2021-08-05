@@ -1,5 +1,4 @@
-﻿using System;
-namespace CrashCourse2020ExercisesDayTwo.Src.Models
+﻿namespace CrashCourse2021ExercisesDayTwo.Models
 {
     public class Credit
     {

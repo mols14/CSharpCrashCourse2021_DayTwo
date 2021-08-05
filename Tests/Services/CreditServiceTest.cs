@@ -1,9 +1,8 @@
 ﻿using System;
-using CrashCourse2020ExercisesDayTwo.Src;
-using CrashCourse2020ExercisesDayTwo.Src.Services;
+using CrashCourse2021ExercisesDayTwo.Services;
 using Xunit;
 
-namespace CrashCourse2020ExercisesDayTwo.Tests.Services
+namespace CrashCourse2021ExercisesDayTwo.Tests.Services
 {
     public class CreditServiceTest
     {

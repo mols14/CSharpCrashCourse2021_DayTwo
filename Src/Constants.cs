@@ -1,7 +1,4 @@
-﻿using System;
-using System.Runtime.Serialization;
-
-namespace CrashCourse2020ExercisesDayTwo.Src
+﻿namespace CrashCourse2021ExercisesDayTwo
 {
     public class Constants
     {
