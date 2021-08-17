@@ -20,7 +20,10 @@ namespace CrashCourse2021ExercisesDayTwo.Services
 
         internal void AddCredit(double valueToAdd)
         {
-            throw new NotImplementedException();
+            if (valueToAdd !< 0)
+            {
+                credit.Value = CurrentCreditValue() + valueToAdd;
+            }
         }
 
         internal void RemoveCredit(double valueToRemove)

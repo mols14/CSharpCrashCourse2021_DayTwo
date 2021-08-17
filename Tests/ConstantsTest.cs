@@ -25,7 +25,7 @@ namespace CrashCourse2021ExercisesDayTwo.Tests
         [Fact]
         public void ConstantCreditToRemoveMustBeZeroOrMoreExceptionTest()
         {
-            Assert.Equal("Credit Value cannot Be Less Then Zero", Constants.CreditCannotBeLessThenZeroException);
+            Assert.Equal("Credit Value cannot Be Less Than Zero", Constants.CreditCannotBeLessThenZeroException);
         }
 
         
