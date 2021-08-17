@@ -15,7 +15,7 @@ namespace CrashCourse2021ExercisesDayTwo.Services
 
         internal double CurrentCreditValue()
         {
-            throw new NotImplementedException();
+            return credit.Value;
         }
 
         internal void AddCredit(double valueToAdd)
